@@ -1,8 +1,14 @@
-# LearnLab · Java e CPA ☕
+# LearnLab&lt;/&gt; ✦
 
 Criei este projeto para organizar meu estudo contínuo de Java e IA e transformar o que aprendo em prática de back-end, com foco em tecnologia bancária.
 
 A ideia é ter um lugar para decidir o que estudar hoje, acompanhar minha semana e registrar o que consegui implementar, o que deu errado e o que ainda preciso entender. Quero construir essa evolução aos poucos, com sessões de cerca de uma hora e projetos que eu consiga explicar tecnicamente.
+
+## A cara do meu laboratório
+
+Escolhi uma estética feminina geek/dev: fundo escuro, lilás, rosa neon, grade de terminal e uma ilustração original de dev com headset de gatinho. A decoração reúne referências pessoais a anime, games, Bistecone, Alanzoka e Peter Jordan, do Ei Nerd.
+
+O nome do sistema é **LearnLab</>**. Brew & Code continua como um dos meus projetos de prática dentro dele.
 
 ## Duas áreas de estudo
 
@@ -68,7 +74,11 @@ LearnLab_Java/
 ├── index.html   # Estrutura do painel
 ├── style.css    # Estilos e layout responsivo
 ├── app.js       # Navegação, registros, progresso e armazenamento local
-├── cpa.js       # Área CPA e alternância entre as duas jornadas\n└── README.md
+├── cpa.js       # Área CPA e alternância entre as duas jornadas
+├── theme.css    # Identidade visual feminina geek/dev
+├── assets/
+│   └── dev-orbit.svg # Ilustração original
+└── README.md
 ```
 
 ## Como os dados são salvos
