@@ -1,8 +1,18 @@
-# LearnLab Java ☕
+# LearnLab · Java e CPA ☕
 
 Criei este projeto para organizar meu estudo contínuo de Java e IA e transformar o que aprendo em prática de back-end, com foco em tecnologia bancária.
 
 A ideia é ter um lugar para decidir o que estudar hoje, acompanhar minha semana e registrar o que consegui implementar, o que deu errado e o que ainda preciso entender. Quero construir essa evolução aos poucos, com sessões de cerca de uma hora e projetos que eu consiga explicar tecnicamente.
+
+## Duas áreas de estudo
+
+Adicionei uma barra no topo para alternar entre **Java** e **CPA**. O painel abre em Java por padrão. Cada área tem seus próprios registros, progresso, histórico, revisões e backup; os dados anteriores de Java continuam na mesma chave de armazenamento.
+
+Na CPA, organizei um mapa resumido dos quatro blocos do programa da ANBIMA: sistema financeiro, produtos, relacionamento e inovação. Também incluí plano diário, semana, data planejada da prova, oito questões autorais com correção, caderno de erros, registro de simulados externos, transcrições e glossário.
+
+O treino local é introdutório e não estima aprovação. O programa completo e suas atualizações devem ser consultados na [Central de documentos da ANBIMA](https://anbimaedu.com.br/central-documentos). A base foi consultada em 17/11/2026.
+
+A exportação e a restauração de backup se aplicam à área selecionada. Para guardar Java e CPA, exporte um arquivo em cada área.
 
 ## Meu ponto de partida
 
@@ -58,7 +68,7 @@ LearnLab_Java/
 ├── index.html   # Estrutura do painel
 ├── style.css    # Estilos e layout responsivo
 ├── app.js       # Navegação, registros, progresso e armazenamento local
-└── README.md
+├── cpa.js       # Área CPA e alternância entre as duas jornadas\n└── README.md
 ```
 
 ## Como os dados são salvos
